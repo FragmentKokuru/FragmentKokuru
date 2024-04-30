@@ -30,7 +30,7 @@
 <a href="https://www.youtube.com/c/fragmentkokuru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fragmentkokuru" height="50" width="40" /></a>
 <a href="https://ko-fi.com/Fragmentkokuru"> <img align="center  src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Fragmentkokuru"></a></p>
 
-
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#29abe0', 'O5O27UI9');kofiwidget2.draw();</script> 
 
 
 
