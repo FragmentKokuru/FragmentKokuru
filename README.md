@@ -28,9 +28,11 @@
 <a href="https://twitter.com/fragmentkokuru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fragmentkokuru" height="50" width="40" /></a>
 <a href="https://medium.com/@fragmentkokuru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@fragmentkokuru" height="50" width="40" /></a>
 <a href="https://www.youtube.com/c/fragmentkokuru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fragmentkokuru" height="50" width="40" /></a>
-<a href="https://ko-fi.com/Fragmentkokuru"> <img align="center  src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Fragmentkokuru"></a></p>
+<a href="https://ko-fi.com/Fragmentkokuru"> <img align="center  src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Fragmentkokuru"></a>
 
-<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#29abe0', 'O5O27UI9');kofiwidget2.draw();</script> 
+<a href='https://ko-fi.com/O5O27UI9' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a></p>
+
+
 
 
 
