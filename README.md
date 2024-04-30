@@ -29,10 +29,11 @@
 <a href="https://twitter.com/fragmentkokuru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fragmentkokuru" height="30" width="40" /></a>
 <a href="https://medium.com/@fragmentkokuru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@fragmentkokuru" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/fragmentkokuru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fragmentkokuru" height="30" width="40" /></a>
+  <h3 >Support:</h3>
+<p><a href="https://ko-fi.com/Fragmentkokuru"> <img  src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Fragmentkokuru"></a></p>
 </p>
 
-<h3 >Support:</h3>
-<p><a href="https://ko-fi.com/Fragmentkokuru"> <img  src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Fragmentkokuru"></a></p>
+
 
 
 <!---
