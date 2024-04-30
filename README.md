@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/fragmentkokuru" target="blank"><img src="https://img.shields.io/twitter/follow/fragmentkokuru?logo=twitter&style=for-the-badge" alt="fragmentkokuru" /></a> </p>
 
-- 🌱 I’m currently learning **Front-end development and learning microsoft & linux Security**
+- 🌱 I’m currently learning **Front-end development and  microsoft & linux Security**
 
 - 📝 I regularly write articles on [https://medium.com/@fragmentkokuru](https://medium.com/@fragmentkokuru)
 
